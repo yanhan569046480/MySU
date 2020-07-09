@@ -1,0 +1,41 @@
+{
+  "Header": {
+    "ID": "9a16331a-bdf4-48bd-a9fa-54d26650d5df",
+    "CertID": null,
+    "NameSpace": "Inspur.GS.Gsp.MySU.MyBO",
+    "Code": "pedefinePageflow",
+    "Name": "pedefinePageflow",
+    "FileName": "pedefinePageflow.pf",
+    "Type": "PageFlowMetadata",
+    "BizobjectID": "dc9da51b-7c66-49ea-b1e2-ce8de67ab080",
+    "Language": null,
+    "IsTranslating": false,
+    "Extendable": false
+  },
+  "Refs": [],
+  "Content": {
+    "id": "9a16331a-bdf4-48bd-a9fa-54d26650d5df",
+    "project": {
+      "name": "bo-mybofront-activitymgr"
+    },
+    "pages": [
+      {
+        "id": "ab225071-96df-4fba-9f50-0d113ec856b1",
+        "code": "ActivityDemo",
+        "name": "活动测试",
+        "fileName": "ActivityDemo.frm",
+        "relativePath": "Gsp/MySU/MyBO/bo-mybofront-activitymgr/metadata/components",
+        "formUri": null,
+        "routeUri": "ActivityDemo",
+        "routeParams": null
+      }
+    ],
+    "entry": "ActivityDemo",
+    "routes": null
+  },
+  "RelativePath": "Gsp/MySU/MyBO/bo-mybofront-activitymgr/metadata/route",
+  "ExtendProperty": null,
+  "Extended": null,
+  "PreviousVersion": null,
+  "Version": null
+}

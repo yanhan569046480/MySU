@@ -1,0 +1,50 @@
+{
+  "ID": "1ee2a98f-2819-46f5-a684-a28dac583416",
+  "NameSpace": "Inspur.GS.Gsp.MySU.MyBO",
+  "Name": "bo-MyBOFront-activitymgr",
+  "ProjectFileName": "bo-MyBOFront-activitymgr.mdproj",
+  "ProjectPath": "Gsp/MySU/MyBO/bo-mybofront-activitymgr/metadata",
+  "MetadataPackageInfo": {
+    "Name": "Inspur.GS.Gsp.MySU.MyBO.Front",
+    "Version": {
+      "VersionString": "1.0.0"
+    },
+    "Location": null
+  },
+  "MetadataPackageRefs": [
+    {
+      "Name": "Inspur.GS.Gsp.Web.WebCmp",
+      "Version": {
+        "VersionString": "1.0.0"
+      },
+      "Location": null
+    },
+    {
+      "Name": "Inspur.GS.Gsp.MySU.MyBO",
+      "Version": {
+        "VersionString": "1.0.0"
+      },
+      "Location": null
+    }
+  ],
+  "ProjectRefs": [
+    {
+      "Name": "Inspur.GS.Gsp.MySU.MyBO",
+      "ProjectPath": "..\\bo-activitymgr"
+    }
+  ],
+  "NugetPackageRefs": [],
+  "MavenPackageRefs": [
+    {
+      "GroupId": "com.inspur.gs",
+      "ArtifactId": "gsp-web-webcmp-api",
+      "Version": "m0.5.2"
+    },
+    {
+      "GroupId": "com.inspur.gs",
+      "ArtifactId": "gsp-mysu-activitymgr-api",
+      "Version": "m0.1.0-SNAPSHOT"
+    }
+  ],
+  "CsprojAssemblyName": null
+}

@@ -1,0 +1,19 @@
+{
+  "ID": "afff9b53-55de-4bf9-b00c-726c1f07a568",
+  "NameSpace": "Inspur.GS.Gsp.MySU.MyBO",
+  "Name": "bo-activitymgr",
+  "ProjectFileName": null,
+  "ProjectPath": null,
+  "MetadataPackageInfo": {
+    "Name": "Inspur.GS.Gsp.MySU.MyBO",
+    "Version": {
+      "VersionString": "1.0.0"
+    },
+    "Location": null
+  },
+  "MetadataPackageRefs": [],
+  "ProjectRefs": null,
+  "NugetPackageRefs": [],
+  "MavenPackageRefs": [],
+  "CsprojAssemblyName": null
+}

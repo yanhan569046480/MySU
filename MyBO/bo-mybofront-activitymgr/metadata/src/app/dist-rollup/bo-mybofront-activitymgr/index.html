@@ -1,0 +1,23 @@
+<!doctype html>
+    <html>
+    <head lang="en">
+        <base href=""/>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <link rel="icon" type="image/png" href="/favicon.png">
+        <link rel="stylesheet" href="/platform/common/web/assets/material-icons/material-icons.css"/>
+        <link rel="stylesheet" href="/platform/common/web/assets/farris-all.css"/>
+        
+        <script type="systemjs-importmap" src="/platform/runtime/common/web/runtime.common.manifest.json"></script>
+        <script src="/platform/runtime/common/web/gsprtf/gsp.rtf.core.js"></script>
+		<script src="https://webapi.amap.com/loader.js"></script>
+        <title></title>
+    </head>
+    <body>
+        <app-root></app-root>
+        <script src="polyfills.js"></script>
+        <script>
+            System.import('./main.js');
+        </script>
+    </body>
+</html>
